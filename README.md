@@ -6,5 +6,6 @@ Companion repo to a course on Udemy.com
 https://stephengrider.github.io/JSPlaygrounds/
 
 ## Javascript Advanced Concepts.
-https://thatjsdude.com/interview/dom.html
-https://www.youtube.com/watch?v=Rx_JFOSxgpY
+#### https://thatjsdude.com/interview/dom.html
+
+#### https://www.youtube.com/watch?v=Rx_JFOSxgpY
